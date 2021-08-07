@@ -1,0 +1,15 @@
+{
+  "name": "simple-chat-socket",
+  "version": "1.0.0",
+  "description": "Simple example of chat by node js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salamatov Dmitry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
